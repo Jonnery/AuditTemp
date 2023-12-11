@@ -14,6 +14,7 @@ builder.Services.ConfigureDbContext(action: opt =>
 
 appsettings.json配置
 ~~~
+
 "DatabaseOptions": {
   "DatabaseType": "mysql",
   "Version": "8.0.22",
