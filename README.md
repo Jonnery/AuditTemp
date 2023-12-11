@@ -12,7 +12,7 @@ builder.Services.ConfigureDbContext(action: opt =>
 });
 ```
 
-appsettings.json配置
+appsettings.json
 ~~~
 
 "DatabaseOptions": {
