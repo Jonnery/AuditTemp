@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>AuditTemp</id>
-    <version>1.0</version>
-    <title>AuditTemp</title>
+    <id>Audit.Realization</id>
+    <version>1.1.1</version>
+    <title>审计日志类库</title>
     <authors>Guilin</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
     <projectUrl>https://github.com/Jonnery/AuditTemp.git</projectUrl>
-    <description>简单的审计日志的使用类库</description>
-    <releaseNotes>审计日志类库.</releaseNotes>
+    <description>审计日志,.net >= 6</description>
+    <releaseNotes>简单的审计日志使用</releaseNotes>
     <copyright>$copyright$</copyright>
-    <tags>AuditTemp</tags>
+    <tags>Audit.Realization</tags>
   </metadata>
 </package>

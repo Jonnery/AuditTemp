@@ -1,0 +1,15 @@
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.deps.json
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.runtimeconfig.json
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.dll
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.pdb
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.csproj.AssemblyReference.cache
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.GeneratedMSBuildEditorConfig.editorconfig
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.AssemblyInfoInputs.cache
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.AssemblyInfo.cs
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.csproj.CoreCompileInputs.cache
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.sourcelink.json
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.dll
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\refint\Audit.Realization.dll
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.pdb
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\Audit.Realization.genruntimeconfig.cache
+F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\obj\Debug\net6.0\ref\Audit.Realization.dll

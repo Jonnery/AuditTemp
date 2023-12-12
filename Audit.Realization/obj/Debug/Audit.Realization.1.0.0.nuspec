@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Audit.Realization</id>
+    <version>1.0.0</version>
+    <authors>Guilin</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="d2f769ff7c4de1eeb5cdcff4ff10eedb5ab21bef" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="IdentityModel" version="6.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="6.0.25" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" version="5.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.22.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver.Core" version="2.22.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Oracle.EntityFrameworkCore" version="7.21.12" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime" version="4.3.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.runtimeconfig.json" target="lib\net6.0\Audit.Realization.runtimeconfig.json" />
+    <file src="F:\个人开发\新建文件夹\AuditTemp\Audit.Realization\bin\Debug\net6.0\Audit.Realization.dll" target="lib\net6.0\Audit.Realization.dll" />
+  </files>
+</package>

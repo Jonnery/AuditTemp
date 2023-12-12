@@ -27,7 +27,7 @@ var config = builder.Configuration;
 //    opt.DatabaseType = DatabaseType.Oracle;
 //    opt.Connect
 //    ionString = "Data Source=192.168.82.11:1521/inner1;User Id=SMART_PLATFORM_V01;Password=SMARTS;Pooling=false;Max Pool Size=100;Min Pool Size=10;Load Balancing=true;HA Events=true;Validate Connection=true";
-//});
+//}); 
 //选项模式
 builder.Services.ConfigureMyDbContext(config);
 //builder.Services.AddControllers();
